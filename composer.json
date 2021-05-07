@@ -1,0 +1,19 @@
+{
+    "name": "kangfenmao/php-signature-verification",
+    "description": "PHP package for verify signature correct",
+    "type": "library",
+    "authors": [
+        {
+            "name": "亢奋猫",
+            "email": "kangfenmao@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kangfenmao\\SignatureVerification\\": "src/"
+        }
+    }
+}
