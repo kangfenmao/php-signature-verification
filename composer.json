@@ -2,6 +2,7 @@
     "name": "kangfenmao/php-signature-verification",
     "description": "PHP package for verify signature correct",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "亢奋猫",
